@@ -17,9 +17,9 @@
 ### 📫 Contact Me
 
 - 📧 Email: somayaataee0@gmail.com  
-- 💬 LinkedIn: [LinkedIn Profile]((https://www.linkedin.com/in/somaya-ataie-b55336361/))
-- 
-- 🌐 Portfolio Website: [your-website.com]((https://somayaataee.github.io/my-portfolio/))
+- 💬 LinkedIn: (https://www.linkedin.com/in/somaya-ataie-b55336361/)
+- 💬 X:(https://x.com/SomayaAtaee)
+- 🌐 Portfolio Website:(https://somayaataee.github.io/my-portfolio/)
 
 ---
 ### 🛠️ Tech Stack
@@ -51,7 +51,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
 </p>
 
