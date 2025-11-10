@@ -1,15 +1,15 @@
 <h1 align="center">Hi there! I'm Somaya Ataie 👩‍💻</h1>
 <p align="center">
- 💻 Frontend Developer 
+ 💻 Web Developer 
 </p>
 
 ---
 
 ### ✨ About Me
-- ✨I'm Front end web developer
+- ✨I'm Full-Stack Developer
 - 🎓 Computer Science graduate from Herat University
 - 🌸 Passionate about UI/UX design, Photoshop, and clean web layouts
-- 💻 Currently learning React and Node.js to become a Full-Stack Developer
+- 💻 Currently learning React.
 - 🚀 Love building tools that make people's lives easier
 - 🧠 Dedicated to daily learning and self-improvement
 
