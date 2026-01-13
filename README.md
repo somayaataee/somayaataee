@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats
 
   <p>
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somayaataee&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somayaataee&theme=radical&hide_border=false" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=somayaataee&show_icons=true&theme=radical" />
 
