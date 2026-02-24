@@ -8,7 +8,7 @@
 ### ✨ About Me
 - ✨I'm Front-End Web Developer
 - 🎓 Computer Science graduate from Herat University
-- 🌸 Passionate about UI/UX design, Photoshop, and clean web layouts
+- 🌸 Passionate about UI/UX design, Photoshop, Figma and clean web layouts
 - 💻 Currently learning React and wordpress.
 - 🚀 Love building tools that make people's lives easier
 - 🧠 Dedicated to daily learning and self-improvement
