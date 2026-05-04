@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/somayaataee/somayaataee/main/1500*x500.jpeg" width="800" />
+</p>
+
 <h1 align="center">Hi there! I'm Somaya Ataie 👩‍💻</h1>
 <p align="center">
  💻 Web Developer 
